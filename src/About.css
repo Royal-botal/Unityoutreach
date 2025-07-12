@@ -1,0 +1,53 @@
+.about-summary {
+    background: var(--highlight-color);
+    color: var(--primary-color);
+    border-radius: 14px;
+    box-shadow: 0 2px 12px rgba(44, 34, 59, 0.07);
+    padding: 2.5rem 2rem;
+    margin: 2rem auto;
+    max-width: 700px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.about-summary h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: var(--accent-color);
+    font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+
+.about-summary p {
+    font-size: 1.15rem;
+    line-height: 1.7;
+    color: var(--secondary-color);
+}
+
+.about {
+    padding: 4rem 2rem;
+    background-color: var(--secondary-color);
+    color: var(--highlight-color);
+    text-align: center;
+    border-radius: 18px;
+    box-shadow: 0 2px 16px rgba(44, 34, 59, 0.10);
+    margin: 2rem auto;
+    max-width: 900px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.about h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: var(--accent-color);
+    font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+
+.about p {
+    font-size: 1.2rem;
+    max-width: 800px;
+    margin: 0.7rem auto;
+    line-height: 1.7;
+    color: var(--highlight-color);
+}

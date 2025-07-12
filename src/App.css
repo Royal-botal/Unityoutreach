@@ -1,0 +1,15 @@
+.app {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  overflow-x: hidden;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f2e9e4 0%, #c9ada7 100%);
+  /* Soft, warm gradient for a welcoming charity feel */
+}
+
+:root {
+  --primary-color: #22223b;
+  --secondary-color: #4a4e69;
+  --accent-color: #9a8c98;
+  --highlight-color: #f2e9e4;
+  --button-color: #c9ada7;
+}

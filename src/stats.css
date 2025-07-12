@@ -1,0 +1,11 @@
+.stats-card {
+    background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
+    text-align: center;
+    color: var(--highlight-color);
+    border-radius: 18px;
+    box-shadow: 0 2px 16px rgba(44, 34, 59, 0.12);
+    padding: 2rem 1.5rem;
+    margin: 1.5rem auto;
+    max-width: 350px;
+    font-size: 1.3rem;
+}
